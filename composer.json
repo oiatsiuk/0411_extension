@@ -1,7 +1,7 @@
 {
   "name": "oiatsiuk/0411_extension",
   "description": "bum ba bum ba",
-  "type": "magento2-module",
+  "type": "metapackage",
   "version": "1.0.0",
   "license": [
     "OSL-3.0",
