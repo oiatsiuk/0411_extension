@@ -1,5 +1,5 @@
 {
-  "name": "oiatsiuk/0211_extension",
+  "name": "oiatsiuk/0411_extension",
   "description": "bum ba bum ba",
   "type": "magento2-module",
   "version": "1.0.0",
@@ -15,7 +15,7 @@
     "map": [
       [
         "*",
-        "Oiatsiuk/0211_extension"
+        "Oiatsiuk/0411_extension"
       ]
     ]
   }
