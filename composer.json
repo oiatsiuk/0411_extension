@@ -2,7 +2,7 @@
   "name": "oiatsiuk/0411_extension",
   "description": "bum ba bum ba",
   "type": "metapackage",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
